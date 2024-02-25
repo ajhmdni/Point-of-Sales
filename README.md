@@ -3,7 +3,7 @@
 ## Identitas Mahasiswa
 
 > Nama : Aji Hamdani Ahmad <br/>
-> Kelas : 1B <br/>
+> Kelas : 2A <br/>
 > Prodi : D-IV Teknik Informatika <br/>
 > Jurusan : Teknologi Informasi <br/>
 > Mata Kuliah : Pemrograman Web Lanjut <br/>
